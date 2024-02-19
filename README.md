@@ -19,7 +19,7 @@ Tinder Sentiment Analysis is a project aimed at analyzing user reviews of the Ti
 - Git
 
 ## Installation
-1. Clone the repository: git clone https://github.com/username/tinder-sentiment-analysis.git [CHANGE THIS ACCORDINGLY]
+1. Clone the repository: git clone https://github.com/n7kadda/tinder-sentiment-analysis.git
 2. Navigate to the project directory:
 3. Install dependencies: pip install -r requirements.txt
 
